@@ -42,24 +42,14 @@ Whether you're picking up Python for the first time or solidifying your foundati
 ```
 python-basics/
 │
-├── 01_lists/
-│   ├── basics.py               # Core list concepts
-│   ├── methods.py              # Built-in list methods
-│   ├── comprehensions.py       # List comprehensions
-│   └── exercises/
-│       ├── 00_list_reference.py
-│       ├── 01_sum_elements.py
-│       ├── 02_remove_duplicates.py
-│       ├── 03_reverse_list.py
-│       ├── 04_min_max.py
-│       ├── 05_count_occurrences.py
-│       ├── 07_find_pairs_with_sum.py
-│       ├── 08_flatten_nested_list.py
-│       ├── 09_cumulative_sum.py
-│       ├── 10_rotate_list.py
-│       └── 11_product_except_self.py
-│
+├── 0_basics/
+│   ├── hello_world.py              
+│   ├── variables_and_types.py              
+│   ├── arithmetic_operations.py
+|   ├── user_input.py   
+│   └── type_conversion.py
 ├── 02_data_structures/
+|   ├── lists.py
 │   ├── dictionaries.py
 │   ├── sets.py
 │   ├── tuples.py
