@@ -4,6 +4,7 @@ Data structures are how you organize and store information in your programs. Pyt
 
 ---
 
+
 ## 📂 Module Structure
 
 ```
